@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SketchPadApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/dark_teal</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.SketchPadApp" parent="Base.Theme.SketchPadApp" />
+</resources>
